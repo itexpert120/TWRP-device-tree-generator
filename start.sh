@@ -270,7 +270,7 @@ for file in Android.mk AndroidProducts.mk BoardConfig.mk omni_$DEVICE_CODENAME.m
 echo "#
 # Copyright (C) $DEVICE_YEAR_RELEASE The Android Open Source Project
 # Copyright (C) $DEVICE_YEAR_RELEASE The TWRP Open Source Project
-# Copyright (C) $CURRENT_YEAR SebaUbuntu's TWRP device tree generator 
+# Copyright (C) $CURRENT_YEAR SebaUbuntu's TWRP device tree generator
 #
 # Licensed under the Apache License, Version 2.0 (the \"License\");
 # you may not use this file except in compliance with the License.
